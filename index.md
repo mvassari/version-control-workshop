@@ -3,24 +3,15 @@
 Standardized practices for researchers handling archival materials are described below:
 
 * Researchers are limited to one folder at a time, keeping the folder flat on the table with the contents always within it, and reading and turning the pages like they were a book. They should use an Out card to mark the folder’s place in the box.
-
 * For nontraditional containers (such as accordion folders or boxes of index cards), the monitor should engage with the researcher about proper handling and an appropriate solution for using the Out card.
 * Researchers may not rearrange the order of materials in folders nor the order of folders in boxes.
-
 * They should turn the pages within a folder or bound volume gently.
-
 * They should not lean on, write on, fold, bend, fasten, or unfasten archival materials.
-
 * They should use weights and/or cradles with bound volumes.
-
 * They may insert a piece of acid-free paper under thin paper as needed when taking photos.
-
 * They should not walk around the room with archival materials. The desk monitor should go to them to answer a question about the records.
-
 * They may not remove materials from the Reading Room.
-
 * They should always leave the call slips in place so that the barcode can be easily scanned.
-
 
 # Exhibit Policies and Procedures
 
@@ -29,21 +20,13 @@ Archival staff should be with materials at all times if materials are staged and
 RAC staff who are involved in exhibit security should ensure the following objectives are carried out:
 
 * Familiarize yourself with the Exhibit Guide
-
 * Station yourself in and orient yourself to the exhibit space before the visitors arrive
-
 * Stay with the exhibit materials at all times
-
 * Alert another staff member if you need to leave the exhibit space
-
 * Introduce yourself when a visiting group enters the exhibit space
-
 * Articulate handling procedures to visitors before the exhibit narrative begins
-
 * Model correct handling techniques when interacting with the documents
-
 * Engage with the visitors and answer questions
-
 
 # Reappraisal Policy
 
