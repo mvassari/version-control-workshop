@@ -48,71 +48,44 @@ RAC staff who are involved in exhibit security should ensure the following objec
 # Reappraisal Policy
 
 To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form.
-
 -   What is the collection name associated with the records?
-
 -   Does the RAC have ownership of the records?
-
 -   Does the RAC have any legal requirements to keep the collection?
-
 -   Has the donor of the collection or another institution/individual
     provided funding for processing, staffing, preservation work, or
     additions to the RAC endowment?
-
 -   What is the approximate cubic footage of the collection?
-
 -   Does the collection contain archival material?
-
 -   Does the collection fall within the Collection Policy of the RAC?
-
 -   Are there any access restrictions on the collection?
-
 -   Are there electronic records in the collection? What is their
     extent?
-
 -   Does the collection include special formats? If so, what are the
     types and their extent?
-
 -   Has preservation work been done on the collection previously?
-
 -   Does the collection have formats that are obsolete or physically
     degraded beyond use? Is the collection or any part of the collection
     hazardous to the staff or other collections?
-
 -   What are the types of records present in the collection (i.e.
     correspondence, subject files, board minutes, etc.)?
-
 -   Have materials been removed from the collection?
-
 -   Does an inventory or finding aid exist for the collection?
-
 -   Has the collection been made accessible to researchers?
-
 -   How often has the collection been accessed by researchers?
-
 -   Has the collection been used by RAC staff? If so, how?
-
 
 # Social Media Policy
 
 Social networks are one of the fastest growing areas in modern communications technology and are an effective way to encourage two-way communication with the RAC’s stakeholders.
 
 Examples of such platforms and networks include:
-
 - Social networking sites such as Facebook and LinkedIn
-
 - Video and photo sharing sites, such YouTube, Flickr, and Instagram
-
 - Microblogs, such as Twitter and Tumblr
-
 - Weblogs (blogs), such as the RAC’s “Bits and Bytes”
-
 - Electronic Newsletters
-
 - Online forums and discussion boards
-
 - Encyclopedias, such as Wikipedia
-
 - Other online communities
 
 
