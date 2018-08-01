@@ -29,19 +29,12 @@ Archival staff should be with materials at all times if materials are staged and
 RAC staff who are involved in exhibit security should ensure the following objectives are carried out:
 
 * Familiarize yourself with the Exhibit Guide
-
 * Station yourself in and orient yourself to the exhibit space before the visitors arrive
-
 * Stay with the exhibit materials at all times
-
 * Alert another staff member if you need to leave the exhibit space
-
 * Introduce yourself when a visiting group enters the exhibit space
-
 * Articulate handling procedures to visitors before the exhibit narrative begins
-
 * Model correct handling techniques when interacting with the documents
-
 * Engage with the visitors and answer questions
 
 
