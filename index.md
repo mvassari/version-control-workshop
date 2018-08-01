@@ -79,21 +79,13 @@ To make an informed reappraisal decision, the following questions will be answer
 Social networks are one of the fastest growing areas in modern communications technology and are an effective way to encourage two-way communication with the RAC’s stakeholders.
 
 Examples of such platforms and networks include:
-
 - Social networking sites such as Facebook and LinkedIn
-
 - Video and photo sharing sites, such YouTube, Flickr, and Instagram
-
 - Microblogs, such as Twitter and Tumblr
-
 - Weblogs (blogs), such as the RAC’s “Bits and Bytes”
-
 - Electronic Newsletters
-
 - Online forums and discussion boards
-
 - Encyclopedias, such as Wikipedia
-
 - Other online communities
 
 
