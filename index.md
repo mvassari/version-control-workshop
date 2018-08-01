@@ -1,3 +1,4 @@
+Group 3
 # Reading Room Manual
 
 Standardized practices for researchers handling archival materials are described below:
@@ -97,6 +98,8 @@ Examples of such platforms and networks include:
 # Commit
 
 # Pull Request
+
+A pull is when you are bringing changes from a remote repository to a local repository.  
 
 # Branch
 
